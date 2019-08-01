@@ -41,5 +41,6 @@ dependencies {
 
     // Mapbox plugins
     implementation 'com.mapbox.mapboxsdk:mapbox-android-plugin-localization:0.1.0'
-    implementation 'com.mapbox.mapboxsdk:mapbox-android-plugin-locationlayer:0.3.0'
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-plugin-locationlayer:0.7.1'
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-plugin-building:0.1.0'
 }
